@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
+
+file_type_aspx.svg
+
+
