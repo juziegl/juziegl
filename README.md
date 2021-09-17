@@ -1,4 +1,4 @@
 ## Welcome to my profile!
 
-Hi, my name is Julian Ziegler. I am an electrical engineering student with specialization in robotics and embedded systems. I live and study in Germany. :de:
-I am currently learning computer vision and ML. 
+My name is Julian Ziegler. I study electrical engineering with specialization in robotics and embedded systems. I live and study in Germany  :de:.
+On my profile you can expect projects about computer vision, embedded systems and algorithms. Enjoy! :blush:
