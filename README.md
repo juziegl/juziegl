@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 <h2>Heading 2</h2>
 <h3>Heading 3</h
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
